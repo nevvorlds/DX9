@@ -22,6 +22,7 @@ local info_location = {169, 7} -- X, Y Location of where the info box showing pi
 
 --// This table can be expanded / lowered / replaced. The scripts adjusts to any valid set.
 local sets = {
+    [30] = 7.72,
     [40] = 7.62,
     [50] = 7.46,
     [60] = 7.22,
